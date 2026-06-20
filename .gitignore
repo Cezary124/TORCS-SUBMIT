@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+telemetry_runs/
+granite_reviews/
+optimizer_runs/
+.idea/
+tuning_profiles/profile_*.json
+tuning_profiles/best_profile_*.json
+tuning_profiles/*preview*.json
