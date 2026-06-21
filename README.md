@@ -14,6 +14,7 @@ This repository contains a ready-to-run Python driver and the saved best tuning 
 - `run_best.ps1` - PowerShell launcher for the best profile.
 - `run_driver.ps1` - configurable launcher for presets and profile files.
 - `telemetry.py` - optional telemetry logging.
+- `livery/car1-ow1.rgb` - our custom car livery.
 
 ## Requirements
 
